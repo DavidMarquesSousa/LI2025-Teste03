@@ -225,14 +225,14 @@ git commit -m "5ª tarefa concluída"
 
 ---------------------------------------------------------------------------
 
-git pull origin main
-git add .
-git commit -m "3ª tarefa concluída"
-git push origin main
-git add .
-git commit -m "4ª tarefa concluída"
-git push origin main
-git pull
-git add.
-git commit -m "5ª tarefa concluída"
-git push origin main
+   1 git pull origin main                                                                                             
+   2 git add .                                                                                               
+   3 git commit -m "3ª tarefa concluída"                                                                                                       
+   4 git push origin main                                                                                                       
+   5 git add .                                                                                               
+   6 git commit -m "4ª tarefa concluída"                                                                                                 
+   7 git pull origin main                                                                                              
+   8 git pull                                                                                             
+   9 git add.                                                                                             
+   10 git commit -m "5ª tarefa concluída"                                                                                            
+   11 git push origin main                                                                                           
